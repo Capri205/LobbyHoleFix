@@ -1,0 +1,13 @@
+website: http://ob-mc.net
+name: LobbyHoleFix
+author: Fahrenheit451
+version: 1.0
+api-version: 1.16
+main: net.obmc.LobbyHoleFix.LobbyHoleFix
+description: Checks for lobby holes in chunk you are in and fixes them
+commands:
+  holefix:
+    description: LobbyHoleFix command.
+    usage: Type /holefix for a list of commands
+    aliases:
+      - hf

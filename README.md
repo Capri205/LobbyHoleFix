@@ -10,3 +10,6 @@ PRE
 POST
 ![alt text](https://ob-mc.net/repo/lobby-post-cleanup.png)
 
+TODO:
+* Use ChunkSnapshot instead of using chunk directly
+* Currently manual per chunk. Kind of tedious. See about processing region files

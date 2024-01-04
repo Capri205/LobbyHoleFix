@@ -4,10 +4,10 @@ A quick tool to fix the voids that are created when modelling/building terrain u
 
 Obviously of no use to anyone other than me and my paranoia, but feel free to use the code as an example of processing blocks in a chunk, or visit the clean lobby at ob-mc.net and go into spectator mode, or take a look a these shots:
 
-PRE
+BEFORE
 ![alt text](https://ob-mc.net/repo/lobby-pre-cleanup.png)
 
-POST
+AFTER
 ![alt text](https://ob-mc.net/repo/lobby-post-cleanup.png)
 
 TODO:
